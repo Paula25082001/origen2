@@ -1,0 +1,6 @@
+¿Qué es un Pull Request?
+Un Pull Request (PR) es una solicitud que un desarrollador hace a los administradores o colaboradores de un repositorio para integrar (fusionar) los cambios o nuevas funciones que ha realizado en su propia rama hacia la rama principal del proyecto.
+
+¿Cuál es su función dentro de Git/GitHub?
+1. Revisión de código: Permite que otros miembros del equipo revisen, comenten y aprueben los cambios antes de que se incorporen al proyecto final.
+2. Control de calidad: Ayuda a evitar que se suban errores a la versión principal y facilita el trabajo colaborativo de forma ordenada y segura.
